@@ -76,4 +76,4 @@ applied when not using a specific firewall instance.
 [go-mod-privacy]: https://go.dev/ref/mod#private-module-privacy
 [issue tag]: https://docs.phylum.io/knowledge_base/issue_tags
 [package firewall]: https://docs.phylum.io/package_firewall/about
-[policy configuration]: https://docs.phylum.io/knowledge_base/policy_usage
+[package firewall policy configuration]: https://docs.phylum.io/knowledge_base/policy_usage
